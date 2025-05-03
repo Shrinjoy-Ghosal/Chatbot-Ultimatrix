@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 
 # ✅ Update this URL to match your FastAPI deployment
-FASTAPI_URL = "http://127.0.0.1:8000/chatbot"
+FASTAPI_URL = "https://chatbot-ultimatrix-1.onrender.com/chatbot"
 
 st.title("ULTIMATRIX.ai 🤖")
 st.write("Ask me anything!")
